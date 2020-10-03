@@ -22,7 +22,7 @@ function Contact() {
     const formSubmit = (e) =>{
         e.preventDefault();
         // alert(`your name is ${data.fullname}. your phone is ${data.phone}. Your Email is ${data.email}. Your Message is ${data.message}`);
-        alert('Please contact us with this email : cheaperit@gmail.com');
+        alert('Please contact us with this email : rokibahmed.ru.cse@gmail.com');
     }
 
 
