@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Cheaper_IT/static/css/main.11db7188.chunk.css",
+    "main.js": "/Cheaper_IT/static/js/main.d575888a.chunk.js",
+    "main.js.map": "/Cheaper_IT/static/js/main.d575888a.chunk.js.map",
+    "runtime-main.js": "/Cheaper_IT/static/js/runtime-main.fd28beb2.js",
+    "runtime-main.js.map": "/Cheaper_IT/static/js/runtime-main.fd28beb2.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/Cheaper_IT/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.50d46a06.chunk.js": "/Cheaper_IT/static/js/2.50d46a06.chunk.js",
+    "static/js/2.50d46a06.chunk.js.map": "/Cheaper_IT/static/js/2.50d46a06.chunk.js.map",
+    "index.html": "/Cheaper_IT/index.html",
+    "precache-manifest.b7be8871b6d87be09b0f5c0174940b8c.js": "/Cheaper_IT/precache-manifest.b7be8871b6d87be09b0f5c0174940b8c.js",
+    "service-worker.js": "/Cheaper_IT/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/Cheaper_IT/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.11db7188.chunk.css.map": "/Cheaper_IT/static/css/main.11db7188.chunk.css.map",
+    "static/js/2.50d46a06.chunk.js.LICENSE.txt": "/Cheaper_IT/static/js/2.50d46a06.chunk.js.LICENSE.txt",
+    "static/media/aboutpage.png": "/Cheaper_IT/static/media/aboutpage.619f0cc8.png",
+    "static/media/android.jpg": "/Cheaper_IT/static/media/android.0ef26c46.jpg",
+    "static/media/app.png": "/Cheaper_IT/static/media/app.9ce8aa20.png",
+    "static/media/digitalmarketing.jpg": "/Cheaper_IT/static/media/digitalmarketing.a53e79c1.jpg",
+    "static/media/homepage.png": "/Cheaper_IT/static/media/homepage.0f8829c5.png",
+    "static/media/ios.jpg": "/Cheaper_IT/static/media/ios.f1efc491.jpg",
+    "static/media/logo2.png": "/Cheaper_IT/static/media/logo2.3f166ce9.png",
+    "static/media/marketing.jpg": "/Cheaper_IT/static/media/marketing.f0450945.jpg",
+    "static/media/software.jpg": "/Cheaper_IT/static/media/software.76d352eb.jpg",
+    "static/media/web.png": "/Cheaper_IT/static/media/web.426e24f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd28beb2.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.50d46a06.chunk.js",
+    "static/css/main.11db7188.chunk.css",
+    "static/js/main.d575888a.chunk.js"
+  ]
+}
