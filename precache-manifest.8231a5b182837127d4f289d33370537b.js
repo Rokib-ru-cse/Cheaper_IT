@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb36e87ea60504287c7e3fe43c2d66a3",
+    "revision": "f6af89ef112c2adb65116efc402dec76",
     "url": "/Cheaper_IT/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cheaper_IT/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "5a214f440725494adb19",
+    "revision": "f89c4f5c5a3a9be38955",
     "url": "/Cheaper_IT/static/css/main.11db7188.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cheaper_IT/static/js/2.50d46a06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a214f440725494adb19",
-    "url": "/Cheaper_IT/static/js/main.d575888a.chunk.js"
+    "revision": "f89c4f5c5a3a9be38955",
+    "url": "/Cheaper_IT/static/js/main.403bc71c.chunk.js"
   },
   {
     "revision": "981c3bab68bbfbe40f38",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cheaper_IT/static/css/main.11db7188.chunk.css",
-    "main.js": "/Cheaper_IT/static/js/main.d575888a.chunk.js",
-    "main.js.map": "/Cheaper_IT/static/js/main.d575888a.chunk.js.map",
+    "main.js": "/Cheaper_IT/static/js/main.403bc71c.chunk.js",
+    "main.js.map": "/Cheaper_IT/static/js/main.403bc71c.chunk.js.map",
     "runtime-main.js": "/Cheaper_IT/static/js/runtime-main.fd28beb2.js",
     "runtime-main.js.map": "/Cheaper_IT/static/js/runtime-main.fd28beb2.js.map",
     "static/css/2.ea6b7726.chunk.css": "/Cheaper_IT/static/css/2.ea6b7726.chunk.css",
     "static/js/2.50d46a06.chunk.js": "/Cheaper_IT/static/js/2.50d46a06.chunk.js",
     "static/js/2.50d46a06.chunk.js.map": "/Cheaper_IT/static/js/2.50d46a06.chunk.js.map",
     "index.html": "/Cheaper_IT/index.html",
-    "precache-manifest.b7be8871b6d87be09b0f5c0174940b8c.js": "/Cheaper_IT/precache-manifest.b7be8871b6d87be09b0f5c0174940b8c.js",
+    "precache-manifest.8231a5b182837127d4f289d33370537b.js": "/Cheaper_IT/precache-manifest.8231a5b182837127d4f289d33370537b.js",
     "service-worker.js": "/Cheaper_IT/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/Cheaper_IT/static/css/2.ea6b7726.chunk.css.map",
     "static/css/main.11db7188.chunk.css.map": "/Cheaper_IT/static/css/main.11db7188.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.50d46a06.chunk.js",
     "static/css/main.11db7188.chunk.css",
-    "static/js/main.d575888a.chunk.js"
+    "static/js/main.403bc71c.chunk.js"
   ]
 }
